@@ -1,0 +1,12 @@
+{
+  "name"         : "w1",
+  "version"      : "0.0.1",
+  "description"  : "Scrape the news together",
+  "main"         : "nexus.js",
+  "author"       : "KManu",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
